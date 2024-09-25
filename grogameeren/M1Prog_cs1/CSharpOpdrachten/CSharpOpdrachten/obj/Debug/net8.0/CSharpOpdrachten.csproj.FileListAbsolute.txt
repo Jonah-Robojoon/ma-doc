@@ -1,0 +1,14 @@
+C:\Users\Jonah\Desktop\Ma\1.1\M1Prog_cs1\CSharpOpdrachten\CSharpOpdrachten\bin\Debug\net8.0\CSharpOpdrachten.exe
+C:\Users\Jonah\Desktop\Ma\1.1\M1Prog_cs1\CSharpOpdrachten\CSharpOpdrachten\bin\Debug\net8.0\CSharpOpdrachten.deps.json
+C:\Users\Jonah\Desktop\Ma\1.1\M1Prog_cs1\CSharpOpdrachten\CSharpOpdrachten\bin\Debug\net8.0\CSharpOpdrachten.runtimeconfig.json
+C:\Users\Jonah\Desktop\Ma\1.1\M1Prog_cs1\CSharpOpdrachten\CSharpOpdrachten\bin\Debug\net8.0\CSharpOpdrachten.dll
+C:\Users\Jonah\Desktop\Ma\1.1\M1Prog_cs1\CSharpOpdrachten\CSharpOpdrachten\bin\Debug\net8.0\CSharpOpdrachten.pdb
+C:\Users\Jonah\Desktop\Ma\1.1\M1Prog_cs1\CSharpOpdrachten\CSharpOpdrachten\obj\Debug\net8.0\CSharpOpdrachten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonah\Desktop\Ma\1.1\M1Prog_cs1\CSharpOpdrachten\CSharpOpdrachten\obj\Debug\net8.0\CSharpOpdrachten.AssemblyInfoInputs.cache
+C:\Users\Jonah\Desktop\Ma\1.1\M1Prog_cs1\CSharpOpdrachten\CSharpOpdrachten\obj\Debug\net8.0\CSharpOpdrachten.AssemblyInfo.cs
+C:\Users\Jonah\Desktop\Ma\1.1\M1Prog_cs1\CSharpOpdrachten\CSharpOpdrachten\obj\Debug\net8.0\CSharpOpdrachten.csproj.CoreCompileInputs.cache
+C:\Users\Jonah\Desktop\Ma\1.1\M1Prog_cs1\CSharpOpdrachten\CSharpOpdrachten\obj\Debug\net8.0\CSharpOpdrachten.dll
+C:\Users\Jonah\Desktop\Ma\1.1\M1Prog_cs1\CSharpOpdrachten\CSharpOpdrachten\obj\Debug\net8.0\refint\CSharpOpdrachten.dll
+C:\Users\Jonah\Desktop\Ma\1.1\M1Prog_cs1\CSharpOpdrachten\CSharpOpdrachten\obj\Debug\net8.0\CSharpOpdrachten.pdb
+C:\Users\Jonah\Desktop\Ma\1.1\M1Prog_cs1\CSharpOpdrachten\CSharpOpdrachten\obj\Debug\net8.0\CSharpOpdrachten.genruntimeconfig.cache
+C:\Users\Jonah\Desktop\Ma\1.1\M1Prog_cs1\CSharpOpdrachten\CSharpOpdrachten\obj\Debug\net8.0\ref\CSharpOpdrachten.dll
