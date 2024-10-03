@@ -24,7 +24,7 @@ function berekenDriehoekZijde(lengte, hoogte){
     return Zijde;
 }
 
-let DriehoekZijde = berekenDriehoekZijde(10, 5);
+let DriehoekZijde = berekenDriehoekZijde(3, 4);
 console.log(DriehoekZijde);
 
 
